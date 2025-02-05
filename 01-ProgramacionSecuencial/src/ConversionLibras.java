@@ -23,7 +23,7 @@ public class ConversionLibras {
         double c3=0.0;
         String salida="";
 
-        //Proces de conversion
+        //Proces0 de conversion
         c1=numero1 / FACTOR_CONVERSION;
         c2=numero2 / FACTOR_CONVERSION;
         c3=numero3 / FACTOR_CONVERSION;
